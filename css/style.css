@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+}
+
+span {
+  text-align: center;
+}
+
+
+button {
+  content: "";
+  clear: both;
+}
